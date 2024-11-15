@@ -15,7 +15,6 @@ const App = () => {
     });
   }, []);
 
-  console.log(percentileSavings);
   return (
     <div>
       <Upload
